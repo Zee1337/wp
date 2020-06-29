@@ -2,9 +2,11 @@ admin
 admin1
 ADMIN
 hello
-FuckYou
-fuckyou!
-fuckyou
+pass1
+pass12
+pass123
+pass12345
+pass123456
 admin@123
 admin@1234
 Adminweb
